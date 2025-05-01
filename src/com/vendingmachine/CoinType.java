@@ -1,4 +1,4 @@
-package main.java.com.vendingmachine;
+package com.vendingmachine;
 
 public enum CoinType { // in Java enums are pretty much classes
     // Each constant is tied to a value

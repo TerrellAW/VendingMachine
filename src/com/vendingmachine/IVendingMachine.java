@@ -1,4 +1,4 @@
-package main.java.com.vendingmachine;
+package com.vendingmachine;
 
 import java.util.List;
 

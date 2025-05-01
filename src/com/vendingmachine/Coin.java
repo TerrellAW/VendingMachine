@@ -1,4 +1,4 @@
-package main.java.com.vendingmachine;
+package com.vendingmachine;
 
 public class Coin {
     int value; // monetary value
