@@ -7,4 +7,6 @@ public interface IVendingMachine {
     int countCoins(List<Coin> coins);
     // Inventory
     int countProducts(List<Product> products);
+    // Settings
+    boolean resetMode = false;
 }
